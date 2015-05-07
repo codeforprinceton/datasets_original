@@ -1,7 +1,12 @@
-# Code for Princeton Datasets
-
-Welcome to the Datasets repository of Code for Princeton. 
+# Energy Usage Dataset
 
 ## Description
-This repository is a catalog of the datasets collected from local orgnaizations.
+Coming soon...
 
+## Sponsor
+This dataset has been provided by <a href="http://www.sustainableprinceton.org/"> Sustainable Princeton </a>
+
+## Contact
+Please join us on our #datsets Slack channel
+
+## License
