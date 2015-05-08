@@ -1,4 +1,4 @@
-# Township Centerline GIS
+# Princeton Township Centerline GIS
 
 ## Description
 There are two folders:
