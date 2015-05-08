@@ -7,6 +7,9 @@ There are two folders:
 
 More detials coming soon...
 
+## Goal
+1. Merge the GIS files to create a new one
+
 ## Sponsor
 This dataset has been provided by <a href="http://www.princetonnj.gov/"> Princeton Township </a>
 
