@@ -1,0 +1,16 @@
+# Township Centerline GIS
+
+## Description
+There are two folders:
+- Township GIS
+- Boro GIS
+
+More detials coming soon...
+
+## Sponsor
+This dataset has been provided by <a href="http://www.princetonnj.gov/"> Princeton Township </a>
+
+## Contact
+Please join us on our #datsets Slack channel
+
+## License
