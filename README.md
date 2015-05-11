@@ -10,4 +10,6 @@ Please navigate to the respective repos to see the latest on the datasets.
 
 If you still choose to get the original datasets, please go ahead and download or fork.... Thats why we still have them !
 
-PLEASE NOTE: We will not accept any Pull Requests on this repo. All pull requests with cleaned data should me made to the respective projects which are being management by some talented folks.
+Usage notes: 
+- Pull requests with cleaned data should me made to the respective projects which are being management by some talented folks.
+- If there is some dataset you want, please open an issue, and ideally describe what you know about such data: any ideas on how opening the dataset can benefit the community, ideas for sources that already maintain such information and could open it, etc.
