@@ -1,4 +1,4 @@
-# Datasets [Original]
+# Datasets - Original
 
 Welcome to the Datasets repository of Code for Princeton. 
 
