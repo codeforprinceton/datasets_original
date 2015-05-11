@@ -3,12 +3,9 @@
 Welcome to the Datasets repository of Code for Princeton. 
 
 ## Description
-This repository is a catalog of the datasets collected from local orgnaizations maintained in their original form.
-Some of these datasets have primed further by our lovely contributors and are being used in their respective project repos.
+This repository is a catalog of the datasets collected from local organizations which are maintained here in their original form. Cleaned or reformatted versions may exist in their respective project repos. If you want this version, go ahead and download or fork these.
 
-Please navigate to the respective repos to see the latest on the datasets.
-
-If you still choose to get the original datasets, please go ahead and download or fork.... Thats why we still have them !
+If you want a cleaned up version or a different format, navigate to the respective repo to see if it exists. If not, open an issue in the respective project repo or help us out by cleaning or formating yourself and then submitting a pull request to the respective project repo!
 
 Usage notes: 
 - Pull requests with cleaned data should me made to the respective projects which are being management by some talented folks.
