@@ -7,6 +7,6 @@ Coming soon...
 This dataset has been provided by <a href="http://www.sustainableprinceton.org/"> Sustainable Princeton </a>
 
 ## Contact
-Please join us on our #datsets Slack channel
+Please join us on our #datasets Slack channel
 
 ## License
