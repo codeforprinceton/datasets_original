@@ -1,11 +1,9 @@
 # Princeton Township Centerline GIS
 
 ## Description
-There are two folders:
+There are two datasets:
 - Township GIS
 - Boro GIS
-
-More detials coming soon...
 
 ## Goal
 1. Merge the GIS files to create a new one
@@ -14,6 +12,7 @@ More detials coming soon...
 This dataset has been provided by <a href="http://www.princetonnj.gov/"> Princeton Township </a>
 
 ## Contact
-Please join us on our #datsets Slack channel
+codeforprinceton@gmail.com
+Please join us on our #datasets Slack channel
 
 ## License
